@@ -34,6 +34,10 @@ create .env file in root project
 ```bash
 touch .env
 ```
+OR
+```bash
+nano .env
+```
 
 add this to your .env file
 ```bash
